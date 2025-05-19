@@ -192,7 +192,7 @@ Here’s what you can do during the trial:
     
 **You can explore up to 15 actions per day**, giving you enough room to test and evaluate Similarweb’s value before committing.
 
-**Limitations of the Free Trial** 
+## **Limitations of the Free Trial** 
 
 While this tool **Free Trial** offers useful features to test the platform, it comes with several limitations that distinguish it from the paid versions. These restrictions are important to understand before relying on it for deeper research or business decisions.
 
