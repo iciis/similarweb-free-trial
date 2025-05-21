@@ -54,7 +54,7 @@ Here’s why people use Similarweb:
 <img src="https://drive.google.com/uc?export=view&id=1FoP9E8ObxUoX_OFhvRvBbO3lZ2orFR34" alt="Try Now"> 
 </a>
 
-## Pricing of Similarweb
+## Similarweb Pricing
 
 <a href="https://afftrend.com/similarweb">
   <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing">
